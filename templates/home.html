@@ -1,0 +1,15 @@
+{%extends "layout.html"%} {%block content%}
+<div class="container mt-2">
+  <h4>{{msg}}</h4>
+  <span class="mt-4 mb-4 text-left">Sheet Updated!</span>
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe
+      class="embed-responsive-item"
+      width="100%"
+      height="100%"
+      src="https://docs.google.com/spreadsheets/d/1WKDOiiDVXLIK6ouvfdceALJNG-9l0i7gTtM6CxxYXgE/edit?usp=sharing"
+      allowfullscreen
+    ></iframe>
+  </div>
+</div>
+{%endblock content%}
