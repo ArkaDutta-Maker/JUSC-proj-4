@@ -5,7 +5,7 @@ Used flask to build this project for my JUSC Project submission of Q4.
 
 ### For people who just want to see the end website:-
 
-Go to my deployed website at <https://programmer-conference.vercel.app/> which is deployed using vercel.
+Go to my deployed website at [<https://programmer-conference.vercel.app/>](https://jusc-proj-4.vercel.app/) which is deployed using vercel.
 
 ### For people who want to see the code and run it on their local machine:-
 
